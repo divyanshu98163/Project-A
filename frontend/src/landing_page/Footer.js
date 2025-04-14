@@ -6,9 +6,10 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-            <img src="media/images/logo.svg" style={{ width: "50%" }} />
+            <img src="media/images/logo.svg" style={{ width: "60%" }} />
             <p>
-              &copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.
+              &copy;
+              Divyanshu Kumar 2010 - 2025, Not Zerodha Broking Ltd. All rights reserved.
             </p>
           </div>
           <div className="col">
@@ -54,10 +55,10 @@ function Footer() {
           </div>
         </div>
         <div className="mt-5 text-muted" style={{ fontSize: "14px" }}>
+          <p>Creating a Zerodha clone is an impressive achievement! You must have put a lot of effort into building a platform that mimics Zerodha's features, such as stock trading, chart analysis, and user-friendly interfaces. Whether you developed it for personal learning, business purposes, or just for fun, it's a testament to your technical skills and dedication. If you'd like, I can help refine your description or highlight key features in a compelling way. Let me know how you’d like to present it!</p>
           <p>
             Zerodha Broking Ltd.: Member of NSE​ &​ BSE – SEBI Registration no.:
-            INZ000031633 CDSL: Depository services through Zerodha Securities
-            Pvt. Ltd. – SEBI Registration no.: IN-DP-100-2015 Commodity Trading
+            INZ000031633 CDSL:  – SEBI Registration no.: IN-DP-100-2015 Commodity Trading
             through Zerodha Commodities Pvt. Ltd. MCX: 46025 – SEBI Registration
             no.: INZ000038238 Registered Address: Zerodha Broking Ltd.,
             #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School,
@@ -90,14 +91,13 @@ function Footer() {
             (broker, DP, Mutual Fund etc.), you need not undergo the same
             process again when you approach another intermediary." Dear
             Investor, if you are subscribing to an IPO, there is no need to
-            issue a cheque. Please write the Bank account number and sign the
-            IPO application form to authorize your bank to make payment in case
-            of allotment. In case of non allotment the funds will remain in your
+            issue a cheque.  In case of non allotment the funds will remain in your
             bank account. As a business we don't give stock tips, and have not
             authorized anyone to trade on behalf of others. If you find anyone
             claiming to be part of Zerodha and offering such services, please
             create a ticket here.
           </p>
+        
         </div>
       </div>
     </footer>

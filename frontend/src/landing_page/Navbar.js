@@ -4,16 +4,10 @@ function Navbar() {
   return (
     <nav
       class="navbar navbar-expand-lg border-bottom"
-      style={{ backgroundColor: "#FFF" }}
+      style={{ backgroundColor: "#DBE9FA" }}
     >
       <div class="container p-2">
-        <a class="navbar-brand" href="#">
-          <img
-            src="media/images/logo.svg"
-            style={{ width: "25%" }}
-            alt="Logo"
-          />
-        </a>
+        
         <button
           class="navbar-toggler"
           type="button"
@@ -25,6 +19,16 @@ function Navbar() {
         >
           <span class="navbar-toggler-icon"></span>
         </button>
+        <a class="navbar-brand" href="##">
+          <img
+            src="media/images/logo.svg"
+            style={{ width: "25%" }}
+            alt="Logo"
+          />
+        </a>
+       
+        
+        
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
