@@ -1,7 +1,12 @@
 import React from 'react';
+import Hero from './Hero';
 
 function Signup() {
-    return ( <h1>Signup Page</h1> );
+    return (
+        <div className="signup">
+            <Hero />
+        </div>
+    );
 }
 
 export default Signup;
