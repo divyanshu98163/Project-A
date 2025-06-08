@@ -4,9 +4,11 @@ import React from "react";
 function Hero() {
   return (
     <div className="container text-center mt-5">
-      <h1>Tecnology</h1>
-      <h3>Sllek ,modern and intuitive treding platform</h3>
-      <p>Discover the latest trends and innovations in technology.</p>
+      <h1>Zerodha Products</h1>
+      <h3>Sleek, modern, and intuitive trading platforms
+
+</h3>
+      
       <p className="mt-3">
         Check out our{""}
         <a href="" style={{ textDecoration: "none" }}>
